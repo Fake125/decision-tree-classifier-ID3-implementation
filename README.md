@@ -8,7 +8,7 @@ ID3 algortihm implemented in java to build a decision tree classifier given disc
 
 - All attributes must be discrete-valued.
 - The class column must be ordered in last column.
-- The chosen dataset must be in CSV file.
+- The chosen dataset must be as a CSV file.
 
 ## Launch
 No specific requirements or dependencies are required except JDK.
